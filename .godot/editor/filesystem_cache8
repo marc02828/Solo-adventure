@@ -1,0 +1,224 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1733498082
+CloudLayer.gd::GDScript::-1::1733496623::0::1::::<>RefCounted<>::
+Damageable.gd::GDScript::-1::1733491946::0::1::::Damageable<>Node<>::
+health_changed_label.gd::GDScript::-1::1733040184::0::1::::<>Label<>::
+health_changed_label.tscn::PackedScene::3972733743293531292::1733483686::0::1::::<><>::res://health_changed_label.gd
+icon.svg::CompressedTexture2D::7880889386669326520::1731066202::1731066208::1::::<><>::
+node_2d.tscn::PackedScene::5398803692948767467::1733497166::0::1::::<><>::uid://40lba2561m7e::::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Assets/Tiles.png<>uid://b1svjptfsj0x::::res://Character/player.tscn<>uid://cs2pwxt1e3fqu::::res://Main Character/groundTilemap_64px.png<>uid://bv7oar7obtlyp::::res://UI Scene/health_changed_manager.tscn<>uid://l2y7gc1q1742::::res://Scenes/boar.tscn
+signal_bus.gd::GDScript::-1::1733038065::0::1::::<>Node<>::
+::res://bg (1)/::1733497167
+Main_Menu (1).tscn::PackedScene::4020553399218646930::1733497167::0::1::::<><>::uid://biv2jryp5bo12::::res://bg (1)/Solo_A.jpeg
+Solo_A.jpeg::CompressedTexture2D::2992939727276390287::1733409083::1733409103::1::::<><>::
+::res://Character/::1733497166
+AirState.gd::GDScript::-1::1733138620::0::1::::AirState<>State<>::
+Attack.gd::GDScript::-1::1732538410::0::1::::<>State<>::
+CharacterStateMachine.gd::GDScript::-1::1733041794::0::1::::CharacterStateMachine<>Node<>::
+FacingCollisionShape2D.gd::GDScript::-1::1733065930::0::1::::FacingCollisionShape2D<>CollisionShape2D<>::
+GroundState.gd::GDScript::-1::1733139037::0::1::::GroundState<>State<>::
+HitState.gd::GDScript::-1::1733491991::0::1::::HitState<>State<>::
+LandingState.gd::GDScript::-1::1732454917::0::1::::LandingState<>State<>::
+player.gd::GDScript::-1::1733494199::0::1::::Player<>CharacterBody2D<>::
+player.tscn::PackedScene::124993569538276749::1733497166::0::1::::<><>::res://Character/player.gd<>uid://bw25b872hrdtm::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-01.png<>uid://73e2ilqxs0f7::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-00.png<>uid://roqdcg87t6r::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-02.png<>uid://b6gg8b6qdt8ys::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-03.png<>uid://qtwdm60jakvl::::res://Main Character/Adventurer/Individual Sprites/adventurer-run-00.png<>uid://dplgonuehieet::::res://Main Character/Adventurer/Individual Sprites/adventurer-run-01.png<>uid://bml03rfmv2ysu::::res://Main Character/Adventurer/Individual Sprites/adventurer-run-02.png<>uid://buruw7n00bttb::::res://Main Character/Adventurer/Individual Sprites/adventurer-run-03.png<>uid://cc74lker14y7c::::res://Main Character/Adventurer/Individual Sprites/adventurer-run-04.png<>uid://dl52h1ebugdq8::::res://Main Character/Adventurer/Individual Sprites/adventurer-run-05.png<>uid://dwa7r22ufsq1u::::res://Main Character/Adventurer/Individual Sprites/adventurer-jump-00.png<>uid://brpt8aj6voaos::::res://Main Character/Adventurer/Individual Sprites/adventurer-jump-01.png<>uid://ccisrk7yopfdn::::res://Main Character/Adventurer/Individual Sprites/adventurer-jump-02.png<>uid://bheucxn448q6p::::res://Main Character/Adventurer/Individual Sprites/adventurer-jump-03.png<>uid://d1l2lldut7pbw::::res://Main Character/Adventurer/Individual Sprites/adventurer-smrslt-00.png<>res://Character/CharacterStateMachine.gd<>uid://c2oam7l5jlj31::::res://Main Character/Adventurer/Individual Sprites/adventurer-smrslt-01.png<>res://Character/GroundState.gd<>res://Character/AirState.gd<>uid://bohmaug2f6fl7::::res://Main Character/Adventurer/Individual Sprites/adventurer-smrslt-02.png<>uid://3jr4jxbrxchv::::res://Main Character/Adventurer/Individual Sprites/adventurer-smrslt-03.png<>uid://cths6vyoiyhi5::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack1-00.png<>res://Character/LandingState.gd<>res://Character/StateDebugLabel.gd<>uid://c0rybbs1fdxur::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack1-01.png<>uid://dnn2ukuhol3p::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack1-02.png<>uid://dgthj2vjgfwxa::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack1-03.png<>uid://co7y8nacc1t6u::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack1-04.png<>uid://bt8pg2e3kst0m::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack2-00.png<>uid://o0xwd0a8yva7::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack2-01.png<>uid://jv2nlho2bitg::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack2-02.png<>uid://3ydru6vgo6tk::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack2-03.png<>uid://tpi6bjx7rkll::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack2-04.png<>uid://x38xrd61n2si::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack2-05.png<>uid://dd2ftelu0yu5y::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack3-00.png<>uid://k8t8qdul0evo::::res://Main Character/Adventurer/Individual Sprites/adventurer-fall-00.png<>uid://bo742fps8aq5b::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack3-01.png<>uid://certbcdxbk7mt::::res://Main Character/Adventurer/Individual Sprites/adventurer-fall-01.png<>uid://bn2u6erbpodtx::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack3-02.png<>uid://usappmxkaocy::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack3-03.png<>uid://b11wwtsmiggns::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack3-04.png<>uid://c46wcwu46n7i8::::res://Main Character/Adventurer/Individual Sprites/adventurer-attack3-05.png<>uid://cyv2smw40gaxm::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-2-00.png<>uid://byb5u3k5sws18::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-2-01.png<>res://Character/Attack.gd<>uid://db2supo13gmr7::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-2-02.png<>uid://bpttctwkd8yqw::::res://Main Character/Adventurer/Individual Sprites/adventurer-idle-2-03.png<>res://Character/Sword.gd<>res://Character/FacingCollisionShape2D.gd
+Skeleton.gd::GDScript::-1::1733490936::0::1::::<>CharacterBody2D<>::
+skeleton.tscn::PackedScene::5692072045631437496::1733491121::0::1::::<><>::res://Character/Skeleton.gd<>uid://glg65bjjra0w::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Full Sprite sheet/Walk sprite sheet.png<>uid://bx02tivc23l0n::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/Animation1.png<>uid://n063oswxagij::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/Animation2.png<>uid://c5074kc8lkg11::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/Animation3.png<>uid://cjlndm5q43wgo::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/Animation4.png<>uid://b2o6vriwlmi6x::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/Animation5.png<>uid://b654wo25wck64::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/Animation6.png
+snail.gd::GDScript::-1::1733411763::0::1::::<>CharacterBody2D<>::
+snail.tscn::PackedScene::6157777215451265490::1733492368::0::1::::<><>::res://Character/snail.gd<>uid://bpsp05dov471i::::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Snail/walk-Sheet.png<>res://Damageable.gd<>uid://csifi5a4fecm::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Full Sprite sheet/Death sprite sheet.png<>res://Character/CharacterStateMachine.gd<>uid://glg65bjjra0w::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Full Sprite sheet/Walk sprite sheet.png<>res://Character/State.gd<>res://Character/HitState.gd
+State.gd::GDScript::-1::1733491054::0::1::::State<>Node<>::
+StateDebugLabel.gd::GDScript::-1::1732447287::0::1::::<>Label<>::
+Sword.gd::GDScript::-1::1733493353::0::1::::<>Area2D<>::
+::res://Legacy-Fantasy - High Forest 2.0/::1733412025
+::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/::1733412020
+::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/::1733412027
+Preview Image.png::CompressedTexture2D::1011579231812017424::1733412020::1733412027::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/::1733412021
+::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Animation/::1733412021
+::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Full Sprite sheet/::1733412027
+Attack 1 sprite sheet.png::CompressedTexture2D::7422711330832625602::1733412021::1733412027::1::::<><>::
+Attack 2 sprite sheet.png::CompressedTexture2D::2297604274341537351::1733412021::1733412027::1::::<><>::
+Death sprite sheet.png::CompressedTexture2D::178031618330685528::1733412021::1733412027::1::::<><>::
+Full sprite sheet.png::CompressedTexture2D::1825915688903499578::1733412021::1733412027::1::::<><>::
+Hurt sprite sheet.png::CompressedTexture2D::409744310808121379::1733412021::1733412027::1::::<><>::
+IDLE sprite sheet.png::CompressedTexture2D::3442576864911338644::1733412021::1733412027::1::::<><>::
+Walk sprite sheet.png::CompressedTexture2D::444262456357426016::1733412021::1733412027::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Individual sprite sheet/::1733412027
+Animation1.png::CompressedTexture2D::4054047272863987739::1733412021::1733412027::1::::<><>::
+Animation2.png::CompressedTexture2D::965997404314716641::1733412021::1733412027::1::::<><>::
+Animation3.png::CompressedTexture2D::6932111382008016710::1733412021::1733412027::1::::<><>::
+Animation4.png::CompressedTexture2D::5428044471102010722::1733412021::1733412027::1::::<><>::
+Animation5.png::CompressedTexture2D::4312341385194724261::1733412021::1733412027::1::::<><>::
+Animation6.png::CompressedTexture2D::4626007027779208019::1733412021::1733412027::1::::<><>::
+Animation7.png::CompressedTexture2D::8207214303419970177::1733412021::1733412027::1::::<><>::
+Animation8.png::CompressedTexture2D::2689338187382188444::1733412021::1733412027::1::::<><>::
+Animation9.png::CompressedTexture2D::7612891983336684557::1733412021::1733412027::1::::<><>::
+Animation10.png::CompressedTexture2D::1290643823220492227::1733412021::1733412027::1::::<><>::
+Animation11.png::CompressedTexture2D::263479547417250372::1733412021::1733412027::1::::<><>::
+Animation12.png::CompressedTexture2D::5118404994053417791::1733412021::1733412027::1::::<><>::
+Animation13.png::CompressedTexture2D::7875189047399790924::1733412021::1733412027::1::::<><>::
+Animation14.png::CompressedTexture2D::4522377601944103551::1733412021::1733412027::1::::<><>::
+Animation15.png::CompressedTexture2D::1066291935911403582::1733412021::1733412027::1::::<><>::
+Animation16.png::CompressedTexture2D::7442965853180679593::1733412021::1733412027::1::::<><>::
+Animation17.png::CompressedTexture2D::3709734192691914823::1733412021::1733412027::1::::<><>::
+Animation18.png::CompressedTexture2D::2858484044230418065::1733412021::1733412027::1::::<><>::
+Animation19.png::CompressedTexture2D::7543689439816579756::1733412021::1733412027::1::::<><>::
+Animation20.png::CompressedTexture2D::4136303109252087919::1733412021::1733412027::1::::<><>::
+Animation21.png::CompressedTexture2D::3881065872270857250::1733412021::1733412027::1::::<><>::
+Animation22.png::CompressedTexture2D::468550368372601769::1733412021::1733412027::1::::<><>::
+Animation23.png::CompressedTexture2D::6497494528001125122::1733412021::1733412027::1::::<><>::
+Animation24.png::CompressedTexture2D::3971824404709626271::1733412021::1733412027::1::::<><>::
+Animation25.png::CompressedTexture2D::2740427255483518210::1733412021::1733412027::1::::<><>::
+Animation26.png::CompressedTexture2D::8351910046584831011::1733412021::1733412027::1::::<><>::
+Animation27.png::CompressedTexture2D::4392428254745248422::1733412021::1733412027::1::::<><>::
+Animation28.png::CompressedTexture2D::8378443267007850813::1733412021::1733412027::1::::<><>::
+Animation29.png::CompressedTexture2D::1665168768862930348::1733412021::1733412027::1::::<><>::
+Animation30.png::CompressedTexture2D::8578011494853821759::1733412021::1733412027::1::::<><>::
+Animation31.png::CompressedTexture2D::3536858302706268470::1733412021::1733412027::1::::<><>::
+Animation32.png::CompressedTexture2D::7037671807182058271::1733412021::1733412027::1::::<><>::
+Animation33.png::CompressedTexture2D::1453962634122287622::1733412021::1733412027::1::::<><>::
+Animation34.png::CompressedTexture2D::4085067429778492402::1733412021::1733412027::1::::<><>::
+Animation35.png::CompressedTexture2D::1647277756258474738::1733412021::1733412027::1::::<><>::
+Animation36.png::CompressedTexture2D::1376699469209878005::1733412021::1733412027::1::::<><>::
+Animation37.png::CompressedTexture2D::3580433592720029616::1733412021::1733412027::1::::<><>::
+Animation38.png::CompressedTexture2D::7833382916902440073::1733412021::1733412027::1::::<><>::
+Animation39.png::CompressedTexture2D::8815079451946387512::1733412021::1733412027::1::::<><>::
+Animation40.png::CompressedTexture2D::7160091692942660489::1733412021::1733412027::1::::<><>::
+Animation41.png::CompressedTexture2D::3519907943890833836::1733412021::1733412027::1::::<><>::
+Animation42.png::CompressedTexture2D::1130806406554419862::1733412021::1733412027::1::::<><>::
+Animation43.png::CompressedTexture2D::5394030160646352130::1733412021::1733412027::1::::<><>::
+Animation44.png::CompressedTexture2D::6841868412440832300::1733412021::1733412027::1::::<><>::
+Animation45.png::CompressedTexture2D::6851502157828757676::1733412021::1733412027::1::::<><>::
+Animation46.png::CompressedTexture2D::207709160563656761::1733412021::1733412027::1::::<><>::
+Animation47.png::CompressedTexture2D::3813189756578535761::1733412021::1733412027::1::::<><>::
+Animation48.png::CompressedTexture2D::6257913071885935914::1733412021::1733412027::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/::1733498016
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Assets/::1732347500
+Buildings.png::CompressedTexture2D::8707184913191270883::1732347425::1732347500::1::::<><>::
+Hive.png::CompressedTexture2D::3855995004454505196::1732347425::1732347500::1::::<><>::
+Interior-01.png::CompressedTexture2D::1272633991789210813::1732347425::1732347500::1::::<><>::
+Props-Rocks.png::CompressedTexture2D::7293061010796299622::1732347425::1732347500::1::::<><>::
+Tiles.png::CompressedTexture2D::2087755625184014772::1732347425::1732347500::1::::<><>::
+Tree-Assets.png::CompressedTexture2D::5771500369007731337::1732347425::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/::1732347441
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/::1732347441
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/::1732347500
+Hit-Sheet-Black.png::CompressedTexture2D::2094190059473353877::1732347425::1732347500::1::::<><>::
+Hit-Sheet-White.png::CompressedTexture2D::6844073317178049137::1732347425::1732347500::1::::<><>::
+Hit-Sheet.png::CompressedTexture2D::4779252243492266299::1732347425::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Idle/::1732347500
+Idle-Sheet-export-Back.png::CompressedTexture2D::3278506938340164255::1732347426::1732347500::1::::<><>::
+Idle-Sheet-White.png::CompressedTexture2D::8258012539758823833::1732347426::1732347500::1::::<><>::
+Idle-Sheet.png::CompressedTexture2D::8266681573957302853::1732347425::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/::1732347500
+Run-Sheet-Black.png::CompressedTexture2D::7308746101896252089::1732347426::1732347500::1::::<><>::
+Run-Sheet-White.png::CompressedTexture2D::5513129248038399300::1732347426::1732347500::1::::<><>::
+Run-Sheet.png::CompressedTexture2D::4163990187708451123::1732347426::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Walk/::1732347500
+Walk-Base-Sheet-White.png::CompressedTexture2D::3703305905382572549::1732347426::1732347500::1::::<><>::
+Walk-Base-Sheet.png::CompressedTexture2D::4646929371622562857::1732347426::1732347500::1::::<><>::
+Walk-Base-SheetBlack.png::CompressedTexture2D::572671749243641826::1732347426::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/::1732347441
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Attack/::1732347500
+Attack-Sheet.png::CompressedTexture2D::5529332247293647230::1732347426::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Fly/::1732347500
+Fly-Sheet.png::CompressedTexture2D::1818829853711572778::1732347426::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Hit/::1732347500
+Hit-Sheet.png::CompressedTexture2D::7652666575909207348::1732347426::1732347500::1::::<><>::
+::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Snail/::1732347500
+all.png::CompressedTexture2D::2323576103713507379::1732347426::1732347500::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::7526961060191592813::1732347426::1732347500::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::463713335264992733::1732347426::1732347500::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::3477369118576036404::1732347426::1732347500::1::::<><>::
+::res://Main Character/::1733143959
+groundTilemap_64px.png::CompressedTexture2D::6092930033163914088::1733143634::1733143959::1::::<><>::
+idle sheet.png::CompressedTexture2D::3238529313927252109::1732438569::1732438573::1::::<><>::
+::res://Main Character/Adventurer/::1731942169
+adventurer-Sheet.png::CompressedTexture2D::3351179138248313639::1731941721::1731942169::1::::<><>::
+::res://Main Character/Adventurer/Individual Sprites/::1731942169
+adventurer-attack1-00.png::CompressedTexture2D::6122029446981481290::1731941721::1731942169::1::::<><>::
+adventurer-attack1-01.png::CompressedTexture2D::6564115955294305469::1731941721::1731942169::1::::<><>::
+adventurer-attack1-02.png::CompressedTexture2D::238242045891944275::1731941721::1731942169::1::::<><>::
+adventurer-attack1-03.png::CompressedTexture2D::7620060832317648718::1731941721::1731942169::1::::<><>::
+adventurer-attack1-04.png::CompressedTexture2D::5823062088371965358::1731941721::1731942169::1::::<><>::
+adventurer-attack2-00.png::CompressedTexture2D::3789056073950572378::1731941721::1731942169::1::::<><>::
+adventurer-attack2-01.png::CompressedTexture2D::1035689229318711684::1731941721::1731942169::1::::<><>::
+adventurer-attack2-02.png::CompressedTexture2D::676714688945713636::1731941721::1731942169::1::::<><>::
+adventurer-attack2-03.png::CompressedTexture2D::2015046296755712444::1731941721::1731942169::1::::<><>::
+adventurer-attack2-04.png::CompressedTexture2D::1365094858501742929::1731941721::1731942169::1::::<><>::
+adventurer-attack2-05.png::CompressedTexture2D::1674191613784675840::1731941721::1731942169::1::::<><>::
+adventurer-attack3-00.png::CompressedTexture2D::7425904524430373108::1731941721::1731942169::1::::<><>::
+adventurer-attack3-01.png::CompressedTexture2D::3436933878631900109::1731941721::1731942169::1::::<><>::
+adventurer-attack3-02.png::CompressedTexture2D::3355883786234627561::1731941721::1731942169::1::::<><>::
+adventurer-attack3-03.png::CompressedTexture2D::1440963266688596628::1731941721::1731942169::1::::<><>::
+adventurer-attack3-04.png::CompressedTexture2D::4266380527500558356::1731941721::1731942169::1::::<><>::
+adventurer-attack3-05.png::CompressedTexture2D::6873654076463059753::1731941721::1731942169::1::::<><>::
+adventurer-crnr-clmb-00.png::CompressedTexture2D::5472840767139822231::1731941721::1731942169::1::::<><>::
+adventurer-crnr-clmb-01.png::CompressedTexture2D::2672574151525890127::1731941721::1731942169::1::::<><>::
+adventurer-crnr-clmb-02.png::CompressedTexture2D::60790757480232184::1731941721::1731942169::1::::<><>::
+adventurer-crnr-clmb-03.png::CompressedTexture2D::2549241413267037715::1731941721::1731942169::1::::<><>::
+adventurer-crnr-clmb-04.png::CompressedTexture2D::6114103458717069344::1731941721::1731942169::1::::<><>::
+adventurer-crnr-grb-00.png::CompressedTexture2D::174358100371886645::1731941721::1731942169::1::::<><>::
+adventurer-crnr-grb-01.png::CompressedTexture2D::3874419935712092478::1731941721::1731942169::1::::<><>::
+adventurer-crnr-grb-02.png::CompressedTexture2D::8998058464115813913::1731941721::1731942169::1::::<><>::
+adventurer-crnr-grb-03.png::CompressedTexture2D::4139942232634795730::1731941721::1731942169::1::::<><>::
+adventurer-crnr-jmp-00.png::CompressedTexture2D::7362880876389104462::1731941721::1731942169::1::::<><>::
+adventurer-crnr-jmp-01.png::CompressedTexture2D::3769580328676630392::1731941721::1731942169::1::::<><>::
+adventurer-crnr-jmp-02.png::CompressedTexture2D::513352474457605809::1731941721::1731942169::1::::<><>::
+adventurer-crouch-00.png::CompressedTexture2D::7232735003719831366::1731941721::1731942169::1::::<><>::
+adventurer-crouch-01.png::CompressedTexture2D::7811535366235080845::1731941721::1731942169::1::::<><>::
+adventurer-crouch-02.png::CompressedTexture2D::8429280345042764000::1731941721::1731942169::1::::<><>::
+adventurer-crouch-03.png::CompressedTexture2D::7257409624270313924::1731941721::1731942169::1::::<><>::
+adventurer-die-00.png::CompressedTexture2D::3769911627170004756::1731941721::1731942169::1::::<><>::
+adventurer-die-01.png::CompressedTexture2D::7598658026222772663::1731941721::1731942169::1::::<><>::
+adventurer-die-02.png::CompressedTexture2D::4442585536277374978::1731941721::1731942169::1::::<><>::
+adventurer-die-03.png::CompressedTexture2D::1357903646327537588::1731941721::1731942169::1::::<><>::
+adventurer-die-04.png::CompressedTexture2D::2234400133054132549::1731941721::1731942169::1::::<><>::
+adventurer-die-05.png::CompressedTexture2D::4247907185934099985::1731941721::1731942169::1::::<><>::
+adventurer-die-06.png::CompressedTexture2D::1000945693145195110::1731941721::1731942169::1::::<><>::
+adventurer-fall-00.png::CompressedTexture2D::771226302258132512::1731941721::1731942169::1::::<><>::
+adventurer-fall-01.png::CompressedTexture2D::5089846683141710635::1731941721::1731942169::1::::<><>::
+adventurer-hurt-00.png::CompressedTexture2D::1304829977987313806::1731941721::1731942169::1::::<><>::
+adventurer-hurt-01.png::CompressedTexture2D::6542402454044146384::1731941722::1731942169::1::::<><>::
+adventurer-hurt-02.png::CompressedTexture2D::8327831436953070650::1731941722::1731942169::1::::<><>::
+adventurer-idle-00.png::CompressedTexture2D::2304137095875296878::1731941722::1731942169::1::::<><>::
+adventurer-idle-01.png::CompressedTexture2D::3988138522607405430::1731941722::1731942169::1::::<><>::
+adventurer-idle-2-00.png::CompressedTexture2D::6502397716246388474::1731941722::1731942169::1::::<><>::
+adventurer-idle-2-01.png::CompressedTexture2D::4074876021910881261::1731941722::1731942169::1::::<><>::
+adventurer-idle-2-02.png::CompressedTexture2D::7286318526521346498::1731941722::1731942169::1::::<><>::
+adventurer-idle-2-03.png::CompressedTexture2D::3479634742430133646::1731941722::1731942169::1::::<><>::
+adventurer-idle-02.png::CompressedTexture2D::35973193397876683::1731941722::1731942169::1::::<><>::
+adventurer-idle-03.png::CompressedTexture2D::4575084437295972558::1731941722::1731942169::1::::<><>::
+adventurer-jump-00.png::CompressedTexture2D::8705391374137215848::1731941722::1731942169::1::::<><>::
+adventurer-jump-01.png::CompressedTexture2D::3611809261252324302::1731941722::1731942169::1::::<><>::
+adventurer-jump-02.png::CompressedTexture2D::4930857916837921759::1731941722::1731942169::1::::<><>::
+adventurer-jump-03.png::CompressedTexture2D::2887219241095914277::1731941722::1731942169::1::::<><>::
+adventurer-run-00.png::CompressedTexture2D::1163586486075294317::1731941722::1731942169::1::::<><>::
+adventurer-run-01.png::CompressedTexture2D::8235192877906769243::1731941722::1731942169::1::::<><>::
+adventurer-run-02.png::CompressedTexture2D::3252963790887998144::1731941722::1731942169::1::::<><>::
+adventurer-run-03.png::CompressedTexture2D::3826547307593019851::1731941722::1731942169::1::::<><>::
+adventurer-run-04.png::CompressedTexture2D::4981060111536395722::1731941722::1731942169::1::::<><>::
+adventurer-run-05.png::CompressedTexture2D::7994923894940204893::1731941722::1731942169::1::::<><>::
+adventurer-slide-00.png::CompressedTexture2D::4105212037943589380::1731941722::1731942169::1::::<><>::
+adventurer-slide-01.png::CompressedTexture2D::8384223108066929997::1731941722::1731942169::1::::<><>::
+adventurer-smrslt-00.png::CompressedTexture2D::9008539726827089892::1731941722::1731942169::1::::<><>::
+adventurer-smrslt-01.png::CompressedTexture2D::6696864562812358750::1731941722::1731942169::1::::<><>::
+adventurer-smrslt-02.png::CompressedTexture2D::3384244803787662546::1731941722::1731942169::1::::<><>::
+adventurer-smrslt-03.png::CompressedTexture2D::1984951506861429171::1731941722::1731942169::1::::<><>::
+adventurer-stand-00.png::CompressedTexture2D::1438820196975232209::1731941722::1731942169::1::::<><>::
+adventurer-stand-01.png::CompressedTexture2D::8825686889185167295::1731941722::1731942169::1::::<><>::
+adventurer-stand-02.png::CompressedTexture2D::7331245860070885949::1731941722::1731942169::1::::<><>::
+::res://parallax/::1733495489
+parallax-00.png::CompressedTexture2D::3110022470703532292::1733495387::1733495489::1::::<><>::
+parallax-01.png::CompressedTexture2D::985163531178426326::1733495397::1733495489::1::::<><>::
+parallax-02.png::CompressedTexture2D::1993727707892785018::1733495405::1733495489::1::::<><>::
+parallax-03.png::CompressedTexture2D::6288493403943577889::1733495421::1733495489::1::::<><>::
+parallax-04.png::CompressedTexture2D::8124014381138797567::1733495428::1733495489::1::::<><>::
+::res://Scenes/::1733497167
+Boar.gd::GDScript::-1::1733494667::0::1::::<>CharacterBody2D<>::
+boar.tscn::PackedScene::829330152042793989::1733497167::0::1::::<><>::res://Scenes/Boar.gd<>uid://dcen8low2bfqn::::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/Run-Sheet-Black.png<>uid://43pae8twp56h::::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/Hit-Sheet-Black.png
+final_boss.tscn::PackedScene::7162334424216466768::1733497167::0::1::::<><>::uid://40lba2561m7e::::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Assets/Tiles.png<>uid://cs2pwxt1e3fqu::::res://Main Character/groundTilemap_64px.png<>uid://b1svjptfsj0x::::res://Character/player.tscn<>uid://c17wc24qkfo7d::::res://Scenes/skeleton.tscn<>uid://bv7oar7obtlyp::::res://UI Scene/health_changed_manager.tscn<>uid://bkkru6072kibc::::res://parallax/parallax-00.png<>uid://obhq8lmxr7io::::res://parallax/parallax-01.png<>res://Scenes/parallax_layer_2.gd<>uid://3n1n0diib0j3::::res://parallax/parallax-02.png<>uid://cvugtkfb0ixav::::res://parallax/parallax-03.png<>uid://dn0llhnlk3208::::res://parallax/parallax-04.png
+parallax_layer_2.gd::GDScript::-1::1733496623::0::1::::<>ParallaxLayer<>::
+skeleton.tscn::PackedScene::6665152199203954819::1733497167::0::1::::<><>::res://Character/snail.gd<>uid://bpsp05dov471i::::res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Mob/Snail/walk-Sheet.png<>uid://csifi5a4fecm::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Full Sprite sheet/Death sprite sheet.png<>uid://glg65bjjra0w::::res://Legacy-Fantasy - High Forest 2.0/64 X 64 Skeleton 2D assets/64 X 64 Skeleton 2D assets/Sprites and files/Full Sprite sheet/Walk sprite sheet.png<>res://Damageable.gd<>res://Character/CharacterStateMachine.gd<>res://Character/State.gd<>res://Character/HitState.gd
+::res://Solo-Adventuring/::1733497451
+::res://UI Scene/::1733483686
+health_changed_manager.gd::GDScript::-1::1733039861::0::1::::<>Control<>::
+health_changed_manager.tscn::PackedScene::3927297469089310803::1733483686::0::1::::<><>::res://UI Scene/health_changed_manager.gd<>uid://bwuolybqn73xo::::res://health_changed_label.tscn
